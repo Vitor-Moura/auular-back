@@ -1,0 +1,12 @@
+teste/aular/response/PetTutorAllFieldsResponse.class
+teste/aular/controller/ServicesProvidedController.class
+teste/aular/exceptions/EmailNotFoundException.class
+teste/aular/response/HotelAllFieldsResponse.class
+teste/aular/response/HotelAddressResponse.class
+teste/aular/utils/StackObj.class
+teste/aular/exceptions/PhoneNumberAlreadyInUseException.class
+teste/aular/utils/QueueObj.class
+teste/aular/domain/contract/ServicesProvidedRepository.class
+teste/aular/configs/WebConfig.class
+teste/aular/utils/Disc.class
+teste/aular/domain/entity/ServicesProvided.class
